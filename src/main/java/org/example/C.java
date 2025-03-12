@@ -1,9 +1,9 @@
-class C {
-    void imprimirSaludo() {
-        if (A.edad < 18) {
-            System.out.println("Hola, joven " + A.nombre);
+class Saludos {
+    void imprimirSaludo(Empleado empleadoEj) {
+        if (empleadoEj.getEdad() < 18) {
+            System.out.println("Hola, joven " + empleadoEj.getNombre());
         } else {
-            System.out.println("Hola, señor/a " + A.nombre);
+            System.out.println("Hola, señor/a " + empleadoEj.getNombre());
         }
     }
 }
