@@ -1,5 +1,10 @@
+/**
+ * clase para el metodo calcularBono
+ */
 class Bono {
-
+    /**
+     * metodo para dar un bono u otro al empleado en funcion de su edad
+     */
     public void calcularBono(Empleado empleadoEj) {
         double bono = 0;
 
