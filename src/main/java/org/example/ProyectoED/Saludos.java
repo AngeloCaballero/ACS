@@ -1,3 +1,4 @@
+package ProyectoED;
 /**
  * clase para el metodo imprimirSaludo
  */

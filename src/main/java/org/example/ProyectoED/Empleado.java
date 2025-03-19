@@ -1,3 +1,4 @@
+package ProyectoED;
 /**
  * clase para crear instancias de los emplados con sus nombres, edad y salarioo
  */
@@ -8,7 +9,6 @@ class Empleado {
     private String nombre;
     private int edad;
     private double salario;
-
     /**
      * @param nombre string que espera el nombre del empleado
      * @param edad int que espera la edad del empleado
@@ -33,7 +33,6 @@ class Empleado {
     public double getSalario() {
         return salario;
     }
-
     /**
      * metodo para mostrar los paramentros del empleado
      */

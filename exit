@@ -1,0 +1,41 @@
+[33mcommit bf56cd783efae76e185fe04f6da08e6689c7d17e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/dev[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mdev[m[33m)[m
+Author: Angelo Caballero VM <angelocaballerosolis@gmail.com>
+Date:   Wed Mar 12 11:48:02 2025 +0100
+
+    Arreglo de problemas y JavaDOC
+
+[33mcommit 3d504e78be2c4ec90013c24749ca0bf71a6b66a5[m
+Author: Angelo Caballero Windows <angelocaballerosolis@gmail.com>
+Date:   Wed Mar 12 10:54:40 2025 +0100
+
+    Arreglar el contenido de las clases
+
+[33mcommit 5c5610eeacac6ac8dbc33f40594590a5b46beaa1[m
+Author: Angelo Caballero VM <angelocaballerosolis@gmail.com>
+Date:   Wed Mar 12 10:28:46 2025 +0100
+
+    Refactorizar las clases
+
+[33mcommit bb0d2f1b4d6e8a67108d5605cd13157ae5a860b9[m
+Author: Angelo Caballero VM <angelocaballerosolis@gmail.com>
+Date:   Wed Mar 5 12:42:37 2025 +0100
+
+    Agregar .gitignore
+
+[33mcommit 54d885613f2832b1f0350090b2979d799296bccd[m
+Author: Angelo Caballero Windows <angelocaballerosolis@gmail.com>
+Date:   Wed Mar 5 12:21:19 2025 +0100
+
+    Integrar el proyecto del aula virtual
+
+[33mcommit 43cb80bb724680c4ee5a6d063159db4c285a0a00[m
+Author: AngeloCaballero <angelocaballerosolis@gmail.com>
+Date:   Wed Mar 5 10:19:47 2025 +0100
+
+    Update README.md
+
+[33mcommit 777ef5b1f5aa8d00971ef056a312dcbd90fa2f96[m
+Author: AngeloCaballero <angelocaballerosolis@gmail.com>
+Date:   Wed Mar 5 10:18:55 2025 +0100
+
+    Initial commit
